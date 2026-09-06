@@ -1,5 +1,4 @@
-Hanson Zhang portfolio preview
-Repository: hanson-portfolio-preview
-Base path: /hanson-portfolio-preview/
-Localized archive assets: 54
-Prepared: 2026-08-14T06:04:27.137Z
+Hanson Zhang portfolio
+Updated: 2026-09-06T06:02:42.791Z
+Public URL: https://hansooon76767.github.io/hanson-portfolio-preview/
+Release: 2026-09-06-refinement
